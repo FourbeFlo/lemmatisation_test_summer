@@ -1,0 +1,2 @@
+# lemmatisation
+essaie de lemmatisation
