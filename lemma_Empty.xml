@@ -11,7 +11,7 @@
         <header name="default"/>
     </output>
     <corpora>
-        <corpus path="/home/floriane/Documents/demo1/entrainer/lemma_Empty.txt" column_marker="TAB">
+        <corpus path="/content/lemma_Empty.xml" column_marker="TAB">
             <splitter name="empty_line"/>
             <header type="default"/>
         </corpus>
